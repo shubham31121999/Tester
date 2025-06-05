@@ -3037,3 +3037,10 @@
   }
 }
 
+@media (max-width: 768px) {
+  .u-logo.u-image-1 {
+    height: 165px !important;
+    display: flex;
+    align-items: center;
+  }
+}
