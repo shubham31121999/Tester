@@ -3028,4 +3028,12 @@
     margin-right: -29px;
     margin-left: 29px;
   }
-}visibility:hidden
+}
+
+@media (max-width: 768px) {
+  .u-logo-image-1 {
+    width: 40px;
+    height: 165px;
+  }
+}
+
